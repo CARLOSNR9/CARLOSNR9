@@ -25,7 +25,7 @@ No dudes en contactarme😊
 - Correo: carlosnr9@gmail.com
 
 ## Proyectos destacados
-- [PI-Dog-App](https://github.com/jacadev/individual-project-henry): Aplicación web para explorar y buscar razas de perros, utilizando una API de razas de perros.
+- [PI-POKEMON](https://github.com/CARLOSNR9/PI_Pokemon_Henry): Aplicación web para explorar y buscar POKEMONES, utilizando una API de pokemon go.
 
 ## Proyectos en los que he colaborado
 - [meditech-frontend](https://github.com/jacadev/meditech-frontend): Repositorio frontend del proyecto Meditech, una aplicación de reserva de citas médicas.
