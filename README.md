@@ -3,7 +3,7 @@
 ## Acerca de mí
 - 💻 Programador full stack con experiencia en tecnologías web.
 - 🎓 Soy un ingeniero de sistemas, con una especialización en Sistemas Interactivos Digitales y un Máster en Business Intelligence de la Universidad de Barcelona.
-- 🌐 Conocimiento en tecnologías como React, Redux, Node.js, Sequelize, PostgreSQL, Express, JavaScript, CSS y HTML.
+- 🌐 Conocimiento en tecnologías como React, Redux, Node.js, Sequelize, PostgreSQL, Express, JavaScript, Python, CSS y HTML.
 - 🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
 - 📊 Familiarizado con la metodología ágil de Scrum.
 
@@ -15,6 +15,7 @@
 - PostgreSQL
 - Express
 - JavaScript
+- Python
 - CSS
 - HTML
 - Metodología ágil de Scrum
